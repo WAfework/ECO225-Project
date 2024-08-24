@@ -1,4 +1,4 @@
-This repository contains the paper, notebooks, code and materials for my project on Airbnb pricing determinants in NYC. Below you can find important documents and figures related to the project.
+This repository contains the paper, notebooks, code and materials for my project on Airbnb pricing determinants in NYC. All code is my own and the research question was unique for the course. Some findings of the project were also novel (explained further in paper). Below you can find important documents and figures related to the project.
 
 ## Documents
 
