@@ -1,3 +1,5 @@
+# Airbnb Pricing Determinants in NYC
+
 This repository contains the paper, notebooks, code and final dataset for my project for ECO225 (Winter-2024) on Airbnb pricing determinants in NYC. All code is my own and the research question was unique for the course. In particular my approach to using tourist attractions data and their associated reviews to calculate popularity and tourism proximity scores was a novel method. My finding that that a listing's proximity to a larger number of popular tourist destinations was the biggest determinant of price was also novel. The findings were statistically significant and served to explain a larger portion of variance (53.8%) than similar papers in the field (Toader et al., 2020; Gibbs et al,. 2017; Deboosere et al., 2019).
 
 ## Methods
