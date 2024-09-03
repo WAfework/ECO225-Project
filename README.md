@@ -1,6 +1,8 @@
 # Airbnb Pricing Determinants in NYC
 
-This repository contains the paper, notebooks, code and final dataset for my project for ECO225 (Winter-2024) on Airbnb pricing determinants in NYC. All code is my own and the research question was unique for the course.
+This repository contains the paper, notebooks, code and final dataset for my project for ECO225 (Winter-2024) on Airbnb pricing determinants in NYC. All code is my own and the research question was unique for the course. 
+
+Below are some key facts from the project.
 
 ## Methods
 
